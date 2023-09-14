@@ -13,3 +13,21 @@ html {
     margin: 0%;
     padding: 0%;
 }
+
+.display {
+    text-align: center;
+}
+
+.header.sub {
+    text-align: center;
+    color: white;
+}
+
+.descrip {
+    color: white;
+    font-size: 18px;
+}
+
+.list {
+    color: white;
+}
