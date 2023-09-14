@@ -2,6 +2,10 @@ html {
     background-color: black;
 }
 
+.header.main {
+    font-family:'Courier New', Courier, monospace;
+}
+
 .main {
     color: white;
     text-align: center;
