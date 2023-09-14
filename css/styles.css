@@ -1,0 +1,15 @@
+html {
+    background-color: black;
+}
+
+.main {
+    color: white;
+    text-align: center;
+}
+
+.links {
+    text-align: center;
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+}
