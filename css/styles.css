@@ -4,10 +4,11 @@ html {
 
 .header.main {
     font-family:'Courier New', Courier, monospace;
+    margin: 50px auto;
 }
 
 .main {
-    color: white;
+    color: yellow;
     text-align: center;
 }
 
@@ -34,4 +35,8 @@ html {
 
 .list {
     color: white;
+}
+
+.hyperlink {
+    margin: 10px auto;
 }
